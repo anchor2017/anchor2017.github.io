@@ -8,6 +8,7 @@ header-img: img/BingWallpaper-2019-03-23.jpg
 catalog: true
 tags:
     - 生活
+mermaid: true
 ---
 
 ### 了解[github](https://github.com)是什么
