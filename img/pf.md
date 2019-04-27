@@ -82,6 +82,7 @@
 - 嵌入式：Linux/stm32/51/gprs/gps/camera/wifi/bluetooth/六轴/传感器
 - 数据库相关：MySQL
 - 版本管理工具：Git/Github
+- 相关书籍：《深入理解计算机系统》、《算法导论》
 
 ---
 
