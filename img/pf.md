@@ -75,13 +75,21 @@
 # 技能清单
 
 - 语言：C/C++/Java/python
+
 - 人工智能：神经网络/深度学习/支持向量机
+
 - 数据挖掘：分类（决策树/贝叶斯分类/k-最邻近分类）、聚类（k-means）、关联分析（Apriori/FP-growth）、离群点挖掘
+
 - 大数据：hadoop/HDFS/MapReduce/Spark
+
 - 互联网大规模数据挖掘与分布式处理：相似性发现/链接分析/Web广告/推荐系统
+
 - 嵌入式：Linux/stm32/51/gprs/gps/camera/wifi/bluetooth/六轴/传感器
+
 - 数据库相关：MySQL
+
 - 版本管理工具：Git/Github
+
 - 相关书籍：《深入理解计算机系统》、《算法导论》
 
 ---
