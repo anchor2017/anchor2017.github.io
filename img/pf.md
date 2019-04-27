@@ -4,17 +4,18 @@
 
 
 # 联系方式
-- 手机：
-- Email：
-- 微信号：
+- 手机：13143346468
+- Email：caiyinmao@gmail.com
+- 微信号：13143346468
 
 ---
 
 # 个人信息
 
- - /女/1997
- - 本科/广东工业大学2020届计算机学院计科应届毕业生
+ - 蔡银锚/女/1997
+ - 本科/广东工业大学2020届计算机学院计科应届毕业生（大数据技术方向）
  - 绩点：3.85
+ - 证书：CET-4、CET-6
  - 技术博客：https://me.csdn.net/anchor2017
  - 个人博客：http://anchor2017.github.io
  - Github：http://github.com/anchor2017
@@ -74,10 +75,11 @@
 # 技能清单
 
 - 语言：C/C++/Java/python
-- 人工智能：神经网络/深度学习
-- 数据挖掘：
-- 大数据：
-- 嵌入式：Linux/STM32
+- 人工智能：神经网络/深度学习/支持向量机
+- 数据挖掘：分类（决策树/贝叶斯分类/k-最邻近分类）、聚类（k-means）、关联分析（Apriori/FP-growth）、离群点挖掘
+- 大数据：hadoop/HDFS/MapReduce/Spark
+- 互联网大规模数据挖掘与分布式处理：相似性发现/链接分析/Web广告/推荐系统
+- 嵌入式：Linux/stm32/51/gprs/gps/camera/wifi/bluetooth/六轴/传感器
 - 数据库相关：MySQL
 - 版本管理工具：Git/Github
 
