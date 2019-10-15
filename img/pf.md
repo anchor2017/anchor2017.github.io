@@ -7,7 +7,7 @@
 
 - 手机：13143346468
 
-- Email：caiyinmao@gmail.com
+- Email：caiyinmao@gmail.com/962353195@qq.com
 
 - 微信号：13143346468
 
